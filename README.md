@@ -26,7 +26,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ### Scripts
 #### Downloading the data
-Use projectdata.R to download and unzip dataset  into "data" directory 
+Use projectdata.R to download and unzip dataset  into "./data" directory 
 
 #### Assignment tasks
 The script run_analysis.R performs all the assignment tasks.
